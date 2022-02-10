@@ -1,0 +1,8 @@
+prefix=/home/vasudev/Desktop/AUE8230Spring22_VasudevPurohit/assignment2_ws/install
+
+Name: tb_sim
+Description: Description of tb_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
