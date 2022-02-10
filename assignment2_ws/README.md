@@ -1,5 +1,5 @@
 ## Package included:
--tb_sim - TurtleBot simulator\
+-tb_sim - TurtleBot simulator
 
 ## Scripts included
 -circle.py -- moves the turlebot in a circle with a constant twist velocity\
