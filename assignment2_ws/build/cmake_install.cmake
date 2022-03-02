@@ -131,6 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/vasudev/Desktop/AUE8230Spring22_VasudevPurohit/assignment2_ws/build/gtest/cmake_install.cmake")
+  include("/home/vasudev/Desktop/AUE8230Spring22_VasudevPurohit/assignment2_ws/build/assignment5_wallfollowingandobstacleavoidance/cmake_install.cmake")
   include("/home/vasudev/Desktop/AUE8230Spring22_VasudevPurohit/assignment2_ws/build/tb_sim/cmake_install.cmake")
 
 endif()

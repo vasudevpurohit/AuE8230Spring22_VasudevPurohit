@@ -9,7 +9,6 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/vasudev/Desktop/AUE8230Spring22_VasudevPurohit/assignment2_ws/devel:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/vasudev/Desktop/AUE8230Spring22_VasudevPurohit/assignment2_ws/devel/lib:$LD_LIBRARY_PATH"
-export PATH='/opt/ros/noetic/bin:/home/vasudev/miniconda3/bin:/home/vasudev/miniconda3/condabin:/home/vasudev/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'
 export PKG_CONFIG_PATH="/home/vasudev/Desktop/AUE8230Spring22_VasudevPurohit/assignment2_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/vasudev/Desktop/AUE8230Spring22_VasudevPurohit/assignment2_ws/build'
 export ROSLISP_PACKAGE_DIRECTORIES="/home/vasudev/Desktop/AUE8230Spring22_VasudevPurohit/assignment2_ws/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
